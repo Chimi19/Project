@@ -1,0 +1,15 @@
+.card-body {
+    background-color: #0C0E0D;
+    border: none;
+  }
+  .card{
+    border: none;
+  }
+  .card img {
+    width: 100%; /* Make the image fill the width of its container */
+    height: 100%; /* Make the image fill the height of its container */
+    object-fit: cover; /* Maintain aspect ratio and cover the entire container */
+}
+.container{
+  font-family: 'Mynerve';
+}

@@ -1,0 +1,13 @@
+@media (max-width: 767.98px) { .border-sm-start-none { border-left: none !important; } }
+
+
+.image-container img {
+    transition: transform 0.3s ease;
+}
+
+.image-container:hover img {
+    transform: scale(1.2); /* Adjust the scale factor as needed */
+}
+.container{
+    font-family: 'Mynerve';
+}
